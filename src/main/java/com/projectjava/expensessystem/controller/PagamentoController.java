@@ -12,7 +12,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-@CrossOrigin(value = "http://localhost:3000/")
+@CrossOrigin(value = "*")
 @RestController
 @RequestMapping("/api/v1/")
 public class PagamentoController {

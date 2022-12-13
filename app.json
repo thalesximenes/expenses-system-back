@@ -1,0 +1,8 @@
+{
+  "name": "expenses-system-back",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
